@@ -1,7 +1,7 @@
 # WebSocketSample
 
 Here's a web socket sample of both client(iOS) and server side(node.js).
-Based on [this tutorial](http://www.appcoda.com/socket-io-chat-app/), I fixed some issues in it and update to Swift 3.
+Based on [this tutorial](http://www.appcoda.com/socket-io-chat-app/), I fixed some issues in both sides and update to Swift 3.
 
 ### Requirement
 
